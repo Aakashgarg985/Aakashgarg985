@@ -8,7 +8,7 @@ You can contact me on various social platforms listed out here.....
 1. Facebook : https://www.facebook.com/Aakashgarg985/
 2. Linkedin : https://www.linkedin.com/in/aakashgarg985/
 3. Instagram : https://www.instagram.com/aakashgarg985/
-4. Twitter : 
+4. Twitter : https://twitter.com/AakashGarg985
 
 <!---
 Aakashgarg985/Aakashgarg985 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
